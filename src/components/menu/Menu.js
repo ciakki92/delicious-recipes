@@ -1,5 +1,5 @@
 import React from "react";
-import Recipe from "./Recipe";
+import Recipe from "../recipe/Recipe";
 import "./Menu.css";
 
 export default function Menu({ recipes = [] }) {
